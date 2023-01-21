@@ -1,5 +1,5 @@
 {
-  "name": "@vable/nuxt.emotion",
+  "name": "vable-nuxt-emotion",
   "version": "1.0.0",
   "description": "Nuxt 3 plugin for Emotion.js",
   "repository": "codebender828/nuxt.emotion",

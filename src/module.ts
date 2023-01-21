@@ -15,7 +15,7 @@ declare global {
 
 export default defineNuxtModule({
   meta: {
-    name: "@vable/nuxt.emotion",
+    name: "vable-nuxt-emotion",
     compatibilty: ">=3.0.0",
   },
   setup(_, nuxt) {

@@ -29,18 +29,18 @@
 
 **IMPORTANT NOTE:** This module requires new hooks that works with nuxt `2.5.0` or `nuxt-edge` only.
 
-1. Add `@nuxtjs/emotion` dependency to your project
+1. Add `vable-nuxt-emotion` dependency to your project
 
 ```bash
-yarn add @nuxtjs/emotion # or npm install @nuxtjs/emotion
+yarn add vable-nuxt-emotion # or npm install vable-nuxt-emotion
 ```
 
-2. Add `@nuxtjs/emotion` to the `modules` section of `nuxt.config.js`
+2. Add `vable-nuxt-emotion` to the `modules` section of `nuxt.config.js`
 
 ```js
 export default {
   modules: [
-    '@nuxtjs/emotion',
+    'vable-nuxt-emotion',
   ]
 }
 ```
