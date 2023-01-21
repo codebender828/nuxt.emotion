@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "moduleResolution": "Node",
+    "module": "ES2020"
+  }
+}
